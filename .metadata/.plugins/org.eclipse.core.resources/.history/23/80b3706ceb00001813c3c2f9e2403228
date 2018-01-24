@@ -107,7 +107,7 @@ public class TestBase {
 	    driver.findElement(By.name("submit")).click();
 	}
 
-	protected void fillAddContactForm(ContactData contact) {
+	protected void fillAddContactForm(AddContactData contact) {
 	    driver.findElement(By.name("firstname")).clear();
 	    driver.findElement(By.name("firstname")).sendKeys(contact.first_name);
 	    driver.findElement(By.name("lastname")).clear();

@@ -2,8 +2,12 @@
 <section name="Workbench">
 	<item value="JavaSE-1.7" key="org.eclipse.jdt.ui.last.selected.execution.enviroment"/>
 	<item value="true" key="Replace"/>
+	<item value="false" key="TypeHierarchyViewPart.qualifiednames"/>
+	<item value="3" key="TypeHierarchyViewPart.orientation"/>
+	<item value="false" key="TypeHierarchyViewPart.linkeditors"/>
 	<item value="Z:\Eclipse" key="org.eclipse.jdt.ui.lastextjar"/>
 	<item value="false" key="InstanceOf"/>
+	<item value="2" key="TypeHierarchyViewPart.hierarchyview"/>
 	<item value="false" key="delegateUpdating"/>
 	<section name="RefactoringWizard.preview">
 		<item value="600" key="width"/>

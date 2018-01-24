@@ -40,3 +40,5 @@
 1516785580954	Delete element
 1516785933030	Rename type 'ContacnCreationTest'
 1516786300083	Pull up members to 'TestBase'
+1516787177270	Rename type 'AddContactData'
+1516787192439	Rename type 'ContactCreationTest'
